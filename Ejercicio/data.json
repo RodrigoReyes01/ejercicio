@@ -1,0 +1,57 @@
+{
+    "headers": {
+        "0":"ID",
+        "1":"Type",
+        "2":"Name", 
+        "3":"Image",
+        "4":"Thumbnail"
+    },
+    "data":[
+        {
+            "id": "0001",
+            "type": "donut",
+            "name": "Cake",
+            "image":{
+                "url": "images/0001.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":
+            {
+                "url": "images/thumbnails/0001.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        },
+        {
+            "id": "0002",
+            "type": "iceCream",
+            "name": "chocolate_ice_cream",
+            "image":{
+                "url": "images/0002.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":{
+                "url": "images/thumbnails/0002.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        },
+        {
+            "id": "0003",
+            "type": "muffin",
+            "name": "muffin_cake",
+            "image":{
+                "url": "images/0003.jpg",
+                "width": "200",
+                "height": "200"
+                },
+            "thumbnail":{
+                "url": "images/thumbnails/0003.jpg",
+                "width": "32",
+                "height": "32"
+            }
+        }
+    ]
+}
